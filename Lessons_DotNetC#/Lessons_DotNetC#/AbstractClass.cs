@@ -24,7 +24,7 @@ namespace Lessons_DotNetC_
     {
         static void Main(string[] args)
         {
-            Dog dog = new Dog();
+            Dog dog = new();
             dog.MakeSound();
         }
     }
