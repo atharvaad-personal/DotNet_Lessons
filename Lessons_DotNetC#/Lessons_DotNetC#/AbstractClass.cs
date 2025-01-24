@@ -6,9 +6,26 @@ using System.Threading.Tasks;
 
 namespace Lessons_DotNetC_
 {
-    public abstract class AbstractClass
+    public abstract class Animal
     {
         public abstract void MakeSound();
 
+    }
+
+    public class Dog : Animal
+    {
+        public override void MakeSound()
+        {
+            Console.WriteLine("Bark");
+        }
+    }
+
+    public class program
+    {
+        static void Main(string[] args)
+        {
+            Dog dog = new Dog();
+            dog.MakeSound();
+        }
     }
 }
