@@ -1,0 +1,15 @@
+C:\DotNetLessons\Lessons_DotNetC#\Lessons_DotNetC#\bin\Debug\net8.0\Lessons_DotNetC#.exe
+C:\DotNetLessons\Lessons_DotNetC#\Lessons_DotNetC#\bin\Debug\net8.0\Lessons_DotNetC#.deps.json
+C:\DotNetLessons\Lessons_DotNetC#\Lessons_DotNetC#\bin\Debug\net8.0\Lessons_DotNetC#.runtimeconfig.json
+C:\DotNetLessons\Lessons_DotNetC#\Lessons_DotNetC#\bin\Debug\net8.0\Lessons_DotNetC#.dll
+C:\DotNetLessons\Lessons_DotNetC#\Lessons_DotNetC#\bin\Debug\net8.0\Lessons_DotNetC#.pdb
+C:\DotNetLessons\Lessons_DotNetC#\Lessons_DotNetC#\obj\Debug\net8.0\Lessons_DotNetC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetLessons\Lessons_DotNetC#\Lessons_DotNetC#\obj\Debug\net8.0\Lessons_DotNetC#.AssemblyInfoInputs.cache
+C:\DotNetLessons\Lessons_DotNetC#\Lessons_DotNetC#\obj\Debug\net8.0\Lessons_DotNetC#.AssemblyInfo.cs
+C:\DotNetLessons\Lessons_DotNetC#\Lessons_DotNetC#\obj\Debug\net8.0\Lessons_DotNetC#.csproj.CoreCompileInputs.cache
+C:\DotNetLessons\Lessons_DotNetC#\Lessons_DotNetC#\obj\Debug\net8.0\Lessons_DotNetC#.sourcelink.json
+C:\DotNetLessons\Lessons_DotNetC#\Lessons_DotNetC#\obj\Debug\net8.0\Lessons_DotNetC#.dll
+C:\DotNetLessons\Lessons_DotNetC#\Lessons_DotNetC#\obj\Debug\net8.0\refint\Lessons_DotNetC#.dll
+C:\DotNetLessons\Lessons_DotNetC#\Lessons_DotNetC#\obj\Debug\net8.0\Lessons_DotNetC#.pdb
+C:\DotNetLessons\Lessons_DotNetC#\Lessons_DotNetC#\obj\Debug\net8.0\Lessons_DotNetC#.genruntimeconfig.cache
+C:\DotNetLessons\Lessons_DotNetC#\Lessons_DotNetC#\obj\Debug\net8.0\ref\Lessons_DotNetC#.dll
