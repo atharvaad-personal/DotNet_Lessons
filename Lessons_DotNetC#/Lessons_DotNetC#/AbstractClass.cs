@@ -20,6 +20,10 @@ namespace Lessons_DotNetC_
         }
     }
 
+    public abstract class Shape
+    {
+
+    }
     public class Program
     {
         static void Main(string[] args)

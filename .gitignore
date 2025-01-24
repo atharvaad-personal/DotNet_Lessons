@@ -7,3 +7,5 @@ Lessons_DotNetC\#/.vs/Lessons_DotNetC\#/FileContentIndex/073804c2-2f30-44b0-be51
 *.vsidx
 Lessons_DotNetC\#/.vs/Lessons_DotNetC\#/v17/.suo
 Lessons_DotNetC\#/.vs/Lessons_DotNetC\#/v17/DocumentLayout.json
+/Lessons_DotNetC\#/.vs
+*.json
