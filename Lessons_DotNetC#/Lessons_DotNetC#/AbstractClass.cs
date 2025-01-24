@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Lessons_DotNetC_
 {
-    public class AbstractClass
+    public abstract class AbstractClass
     {
+        public abstract void MakeSound();
+
     }
 }
