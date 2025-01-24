@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Lessons_DotNetC_
 {
-    internal class AbstractClass
+    public class AbstractClass
     {
     }
 }

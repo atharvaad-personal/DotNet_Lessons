@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DotNetLessons\\Lessons_DotNetC#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A77C590-CC44-4E15-B362-408B5AB65545}|Lessons_DotNetC#\\Lessons_DotNetC#.csproj|c:\\dotnetlessons\\lessons_dotnetc#\\lessons_dotnetc#\\abstractclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A77C590-CC44-4E15-B362-408B5AB65545}|Lessons_DotNetC#\\Lessons_DotNetC#.csproj|solutionrelative:lessons_dotnetc#\\abstractclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AbstractClass.cs",
+              "DocumentMoniker": "C:\\DotNetLessons\\Lessons_DotNetC#\\Lessons_DotNetC#\\AbstractClass.cs",
+              "RelativeDocumentMoniker": "Lessons_DotNetC#\\AbstractClass.cs",
+              "ToolTip": "C:\\DotNetLessons\\Lessons_DotNetC#\\Lessons_DotNetC#\\AbstractClass.cs",
+              "RelativeToolTip": "Lessons_DotNetC#\\AbstractClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T04:21:35.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
