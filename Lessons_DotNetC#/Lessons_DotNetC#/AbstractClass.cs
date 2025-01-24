@@ -20,7 +20,7 @@ namespace Lessons_DotNetC_
         }
     }
 
-    public class program
+    public class Program
     {
         static void Main(string[] args)
         {
