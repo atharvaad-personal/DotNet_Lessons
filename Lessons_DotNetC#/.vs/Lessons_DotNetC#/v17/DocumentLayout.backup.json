@@ -21,19 +21,6 @@
           "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\DotNetLessons\\Lessons_DotNetC#\\Lessons_DotNetC#\\Program.cs",
-              "RelativeDocumentMoniker": "Lessons_DotNetC#\\Program.cs",
-              "ToolTip": "C:\\DotNetLessons\\Lessons_DotNetC#\\Lessons_DotNetC#\\Program.cs",
-              "RelativeToolTip": "Lessons_DotNetC#\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T04:36:02.881Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
@@ -43,13 +30,25 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DotNetLessons\\Lessons_DotNetC#\\Lessons_DotNetC#\\Program.cs",
+              "RelativeDocumentMoniker": "Lessons_DotNetC#\\Program.cs",
+              "ToolTip": "C:\\DotNetLessons\\Lessons_DotNetC#\\Lessons_DotNetC#\\Program.cs",
+              "RelativeToolTip": "Lessons_DotNetC#\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T04:36:02.881Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AbstractClass.cs",
               "DocumentMoniker": "C:\\DotNetLessons\\Lessons_DotNetC#\\Lessons_DotNetC#\\AbstractClass.cs",
               "RelativeDocumentMoniker": "Lessons_DotNetC#\\AbstractClass.cs",
               "ToolTip": "C:\\DotNetLessons\\Lessons_DotNetC#\\Lessons_DotNetC#\\AbstractClass.cs",
               "RelativeToolTip": "Lessons_DotNetC#\\AbstractClass.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAswB0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-24T04:33:41.481Z",
               "EditorCaption": ""
