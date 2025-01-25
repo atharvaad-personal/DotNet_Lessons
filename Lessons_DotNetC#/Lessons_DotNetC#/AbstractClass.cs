@@ -22,8 +22,11 @@ namespace Lessons_DotNetC_
 
     public abstract class Shape
     {
+        //abstract method
+        public abstract void Draw();
 
     }
+
     public class Program
     {
         static void Main(string[] args)
