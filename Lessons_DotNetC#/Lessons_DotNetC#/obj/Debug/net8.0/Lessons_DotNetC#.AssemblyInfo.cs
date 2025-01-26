@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lessons_DotNetC#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e60f923c777015f54edae6b268273aa59d4fb3e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0ada3dddb0d19cddb4cd692162f9615670ff1fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lessons_DotNetC#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lessons_DotNetC#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
