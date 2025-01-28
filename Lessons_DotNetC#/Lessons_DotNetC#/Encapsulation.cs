@@ -7,18 +7,13 @@ using System.Threading.Tasks;
 
 namespace Lessons_DotNetC_
 {
-    public class BankAccount
+    //we have assigned a primary constructor
+    public class BankAccount(string accountnumber, double balance)
     {
-        private string? accountnumber;
-        private /*readonly*/ double balance;
-        public string AccountNumber { get { return accountnumber; } set { accountnumber = value; } }
-        public double Balance { get { return balance; } }
-
-        public BankAccount(string accountnumber, double balance)
-        {
-            this.accountnumber = accountnumber;
-            this.balance = balance;
-        }
+        //private fields to restrict unauthorized access
+        private double balance = balance;
+        private string AccountNumber { get; set; } = accountnumber;
+        private double Balance { get { return balance; } }
 
         public void Deposit(double amount)
         {
@@ -30,7 +25,6 @@ namespace Lessons_DotNetC_
             else
             {
                 Console.WriteLine("Deposit amount must be positive.");
-                throw new Exception("Balance cannot be negative");
             }
         }
 
@@ -53,3 +47,16 @@ namespace Lessons_DotNetC_
         }
     }
 }
+
+//How do you achieve Encapsulation in C#?
+//-> 1) Access Modifiers: private, public, protected, etc.
+//   2) Properties: ToString provides controlled access to private fields.
+//   3) Methods: To define behavior and enforce rules.
+
+//Why is Encapsulation important?
+//-> It ensures data securtiy by preventing unauthorized access.
+//-> It allows for cotrolled modification of data through methods
+//-> It improves code maintainability and flexibility
+//-> It promotes resueablity of code.
+
+//Encapsulation - Buldling data and methods into a single unit and restricting access to the data
