@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\DotNetLessons\\Lessons_DotNetC#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A77C590-CC44-4E15-B362-408B5AB65545}|Lessons_DotNetC#\\Lessons_DotNetC#.csproj|c:\\dotnetlessons\\lessons_dotnetc#\\lessons_dotnetc#\\encapsulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A77C590-CC44-4E15-B362-408B5AB65545}|Lessons_DotNetC#\\Lessons_DotNetC#.csproj|solutionrelative:lessons_dotnetc#\\encapsulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A77C590-CC44-4E15-B362-408B5AB65545}|Lessons_DotNetC#\\Lessons_DotNetC#.csproj|c:\\dotnetlessons\\lessons_dotnetc#\\lessons_dotnetc#\\polymorphism.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A77C590-CC44-4E15-B362-408B5AB65545}|Lessons_DotNetC#\\Lessons_DotNetC#.csproj|solutionrelative:lessons_dotnetc#\\polymorphism.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A77C590-CC44-4E15-B362-408B5AB65545}|Lessons_DotNetC#\\Lessons_DotNetC#.csproj|c:\\dotnetlessons\\lessons_dotnetc#\\lessons_dotnetc#\\abstractclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A77C590-CC44-4E15-B362-408B5AB65545}|Lessons_DotNetC#\\Lessons_DotNetC#.csproj|solutionrelative:lessons_dotnetc#\\abstractclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A77C590-CC44-4E15-B362-408B5AB65545}|Lessons_DotNetC#\\Lessons_DotNetC#.csproj|c:\\dotnetlessons\\lessons_dotnetc#\\lessons_dotnetc#\\encapsulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A77C590-CC44-4E15-B362-408B5AB65545}|Lessons_DotNetC#\\Lessons_DotNetC#.csproj|solutionrelative:lessons_dotnetc#\\encapsulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A77C590-CC44-4E15-B362-408B5AB65545}|Lessons_DotNetC#\\Lessons_DotNetC#.csproj|c:\\dotnetlessons\\lessons_dotnetc#\\lessons_dotnetc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,25 +43,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Polymorphism.cs",
+              "DocumentMoniker": "C:\\DotNetLessons\\Lessons_DotNetC#\\Lessons_DotNetC#\\Polymorphism.cs",
+              "RelativeDocumentMoniker": "Lessons_DotNetC#\\Polymorphism.cs",
+              "ToolTip": "C:\\DotNetLessons\\Lessons_DotNetC#\\Lessons_DotNetC#\\Polymorphism.cs",
+              "RelativeToolTip": "Lessons_DotNetC#\\Polymorphism.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwEEAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T04:16:44.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Encapsulation.cs",
               "DocumentMoniker": "C:\\DotNetLessons\\Lessons_DotNetC#\\Lessons_DotNetC#\\Encapsulation.cs",
               "RelativeDocumentMoniker": "Lessons_DotNetC#\\Encapsulation.cs",
               "ToolTip": "C:\\DotNetLessons\\Lessons_DotNetC#\\Lessons_DotNetC#\\Encapsulation.cs",
               "RelativeToolTip": "Lessons_DotNetC#\\Encapsulation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-26T14:44:27.838Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\DotNetLessons\\Lessons_DotNetC#\\Lessons_DotNetC#\\Program.cs",
               "RelativeDocumentMoniker": "Lessons_DotNetC#\\Program.cs",
               "ToolTip": "C:\\DotNetLessons\\Lessons_DotNetC#\\Lessons_DotNetC#\\Program.cs",
               "RelativeToolTip": "Lessons_DotNetC#\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-24T04:36:02.881Z",
               "EditorCaption": ""
@@ -70,7 +87,7 @@
               "RelativeDocumentMoniker": "Lessons_DotNetC#\\AbstractClass.cs",
               "ToolTip": "C:\\DotNetLessons\\Lessons_DotNetC#\\Lessons_DotNetC#\\AbstractClass.cs",
               "RelativeToolTip": "Lessons_DotNetC#\\AbstractClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA4wA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-24T04:33:41.481Z",
               "EditorCaption": ""
