@@ -1,4 +1,6 @@
-﻿namespace Lessons_DotNetC_
+﻿using Microsoft.Extensions.Hosting;
+
+namespace Lessons_DotNetC_
 {
     public class Program
     {
@@ -32,6 +34,11 @@
             polymorphism.Add(8, 9, 7);
             #endregion
 
+        }
+
+        public static IHostBuilder CreateHostBuilder(string[] args)
+        {
+            Host.CreateDefaultBuilder(args);
         }
     }
 }
