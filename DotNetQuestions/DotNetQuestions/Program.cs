@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿//using DotNetQuestions;
+
+//static void Main(string[] args)
+//{
+//    Employee oldEmployee = new Employee();
+//    oldEmployee.Exprience = 3;
+//    oldEmployee.CalculateSalary();
+//    Console.ReadLine();
+//}
