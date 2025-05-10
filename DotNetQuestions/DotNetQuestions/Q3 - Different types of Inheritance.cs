@@ -41,12 +41,12 @@
             Console.WriteLine("Tiger");
         }
 
-        static void Main(string[] args)
-        {
-            DerivedClass2 derivedClass2 = new DerivedClass2();
-            derivedClass2.Animal();
-            derivedClass2.Tiger();
+        //static void Main(string[] args)
+        //{
+        //    DerivedClass2 derivedClass2 = new DerivedClass2();
+        //    derivedClass2.Animal();
+        //    derivedClass2.Tiger();
 
-        }
+        //}
     }
 }
