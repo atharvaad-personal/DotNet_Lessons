@@ -87,15 +87,15 @@
                 File.WriteAllText("log.txt", message);
             }
 
-            static void Main(string[] args)
-            {
-                FileLogger logger = new FileLogger(); // ← Swap to ConsoleLogger to change behavior
+            //static void Main(string[] args)
+            //{
+            //    FileLogger logger = new FileLogger(); // ← Swap to ConsoleLogger to change behavior
 
-                logger.Log("User logged in");
-                logger.Log("Order placed");
+            //    logger.Log("User logged in");
+            //    logger.Log("Order placed");
 
-                Console.WriteLine("Check 'log.txt' for output!");
-            }
+            //    Console.WriteLine("Check 'log.txt' for output!");
+            //}
         }
         #endregion
     }
