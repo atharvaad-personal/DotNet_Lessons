@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetQuestions", "DotNetQuestions\DotNetQuestions.csproj", "{0AA2923C-1CC9-4DE5-BACA-903AEE7417CA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 1 - DotNetQuestions", "DotNetQuestions\Chapter 1 - DotNetQuestions.csproj", "{0AA2923C-1CC9-4DE5-BACA-903AEE7417CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 2 - Absract Classes & Interfaces", "Chapter 2 - Absract Classes & Interfaces\Chapter 2 - Absract Classes & Interfaces.csproj", "{4A11B2CE-1336-4612-96C0-40147BE681F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{0AA2923C-1CC9-4DE5-BACA-903AEE7417CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AA2923C-1CC9-4DE5-BACA-903AEE7417CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AA2923C-1CC9-4DE5-BACA-903AEE7417CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A11B2CE-1336-4612-96C0-40147BE681F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A11B2CE-1336-4612-96C0-40147BE681F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A11B2CE-1336-4612-96C0-40147BE681F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A11B2CE-1336-4612-96C0-40147BE681F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
