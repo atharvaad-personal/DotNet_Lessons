@@ -5,6 +5,7 @@
     <RootNamespace>Chapter_2___Absract_Classes___Interfaces</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <OutputType>Exe</OutputType>
   </PropertyGroup>
 
 </Project>

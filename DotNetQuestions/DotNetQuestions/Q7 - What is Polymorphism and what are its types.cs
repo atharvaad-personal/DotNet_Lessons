@@ -77,11 +77,11 @@
             }
         }
 
-        static void Main(string[] args)
-        {
-            DerivedClass derivedClass = new DerivedClass();
-            derivedClass.Greetings();
-        }
+        //static void Main(string[] args)
+        //{
+        //    DerivedClass derivedClass = new DerivedClass();
+        //    derivedClass.Greetings();
+        //}
     }
 
     public class MethodHiding
@@ -106,13 +106,13 @@
 
         static void Main(String[] args)
         {
-            Animal myAnimal = new Animal();
-            Animal myDogAsAnimal = new Dog(); // Treat Dog as Animal
-            Dog myDog = new Dog();
+            //Animal myAnimal = new Animal();
+            //Animal myDogAsAnimal = new Dog(); // Treat Dog as Animal
+            //Dog myDog = new Dog();
 
-            myAnimal.Eat();          // Output: "Animal is eating"
-            myDogAsAnimal.Eat();     // Output: "Animal is eating" (compile-time resolution)
-            myDog.Eat();             // Output: "Dog is eating"
+            //myAnimal.Eat();          // Output: "Animal is eating"
+            //myDogAsAnimal.Eat();     // Output: "Animal is eating" (compile-time resolution)
+            //myDog.Eat();             // Output: "Dog is eating"
         }
     }
 }
