@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 1 - DotNetQuestions
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 2 - Absract Classes & Interfaces", "Chapter 2 - Absract Classes & Interfaces\Chapter 2 - Absract Classes & Interfaces.csproj", "{4A11B2CE-1336-4612-96C0-40147BE681F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 3 - OOPS & C# - General", "Chapter 3 - OOPS & C# - General\Chapter 3 - OOPS & C# - General.csproj", "{FF6A2C11-26CA-4BA9-8A3C-7E5E4318D5E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 4 - Exception Handling", "Chapter 4 - Exception Handling\Chapter 4 - Exception Handling.csproj", "{2A344CBD-2C46-498C-BFBF-F5A45269F1FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{4A11B2CE-1336-4612-96C0-40147BE681F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A11B2CE-1336-4612-96C0-40147BE681F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A11B2CE-1336-4612-96C0-40147BE681F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF6A2C11-26CA-4BA9-8A3C-7E5E4318D5E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF6A2C11-26CA-4BA9-8A3C-7E5E4318D5E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF6A2C11-26CA-4BA9-8A3C-7E5E4318D5E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF6A2C11-26CA-4BA9-8A3C-7E5E4318D5E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A344CBD-2C46-498C-BFBF-F5A45269F1FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A344CBD-2C46-498C-BFBF-F5A45269F1FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A344CBD-2C46-498C-BFBF-F5A45269F1FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A344CBD-2C46-498C-BFBF-F5A45269F1FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

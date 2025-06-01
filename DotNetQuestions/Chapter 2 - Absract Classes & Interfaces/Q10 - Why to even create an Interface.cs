@@ -51,15 +51,15 @@
             _notificationServices.Send(message);
         }
 
-        static void Main(string[] args)
-        {
-            // Now we can easily swap Implementation
-            var service = new NotificationServices(new EmailNotifierService());
-            service.Notify("EmailNotification");
+        //static void Main(string[] args)
+        //{
+        //    // Now we can easily swap Implementation
+        //    var service = new NotificationServices(new EmailNotifierService());
+        //    service.Notify("EmailNotification");
 
-            service = new NotificationServices(new SmsNotifierService());
-            service.Notify("SmsNotification");
-        }
+        //    service = new NotificationServices(new SmsNotifierService());
+        //    service.Notify("SmsNotification");
+        //}
     }
     #endregion
 }
