@@ -17,17 +17,17 @@
 
 		}
 
-        static void Main(string[] args)
-        {
-            try
-            {
-                DivideZeroByZero();
+        //static void Main(string[] args)
+        //{
+        //    try
+        //    {
+        //        DivideZeroByZero();
 
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine(ex.StackTrace);
-            }
-        }
+        //    }
+        //    catch (Exception ex)
+        //    {
+        //        Console.WriteLine(ex.StackTrace);
+        //    }
+        //}
     }
 }
