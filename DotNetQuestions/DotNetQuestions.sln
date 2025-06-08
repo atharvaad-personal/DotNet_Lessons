@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 4 - Exception Handl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 5 - Loops & Collections", "Chapter 5 - Loops & Collections\Chapter 5 - Loops & Collections.csproj", "{27FB81C9-D646-4519-AB07-BADB92FDE8D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 6 – METHODS & DELEGATES", "Chapter 6 – METHODS & DELEGATES\Chapter 6 – METHODS & DELEGATES.csproj", "{E94698AE-1969-4E92-9B74-BBFA98C1F5EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{27FB81C9-D646-4519-AB07-BADB92FDE8D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27FB81C9-D646-4519-AB07-BADB92FDE8D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27FB81C9-D646-4519-AB07-BADB92FDE8D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E94698AE-1969-4E92-9B74-BBFA98C1F5EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E94698AE-1969-4E92-9B74-BBFA98C1F5EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E94698AE-1969-4E92-9B74-BBFA98C1F5EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E94698AE-1969-4E92-9B74-BBFA98C1F5EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
