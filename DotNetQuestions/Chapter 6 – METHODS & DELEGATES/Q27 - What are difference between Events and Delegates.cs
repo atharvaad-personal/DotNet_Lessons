@@ -46,19 +46,19 @@
     // Step 7: Main program to wire everything
     class Program
     {
-        static void Main()
-        {
-            var processor = new OrderProcessor();
-            var billing = new BillingService();
-            var shipping = new ShippingService();
+        //static void Main()
+        //{
+        //    var processor = new OrderProcessor();
+        //    var billing = new BillingService();
+        //    var shipping = new ShippingService();
 
-            // Subscribe to the event
-            processor.OrderPlaced += billing.OnOrderPlaced;
-            processor.OrderPlaced += shipping.OnOrderPlaced;
+        //    // Subscribe to the event
+        //    processor.OrderPlaced += billing.OnOrderPlaced;
+        //    processor.OrderPlaced += shipping.OnOrderPlaced;
 
-            // Place an order
-            processor.PlaceOrder("ORD123");
-        }
+        //    // Place an order
+        //    processor.PlaceOrder("ORD123");
+        //}
     }
 
 }

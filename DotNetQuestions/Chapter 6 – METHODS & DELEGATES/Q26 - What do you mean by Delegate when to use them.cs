@@ -13,13 +13,13 @@
             Console.WriteLine(a - b);
         }
 
-        static void Main(string[] args)
-        {
-            Calculator calculator = new Calculator(Add);// Passed method as parameter
+        //static void Main(string[] args)
+        //{
+        //    Calculator calculator = new Calculator(Add);// Passed method as parameter
 
-            calculator += Remove;
-            calculator(20, 30); // calling method using delegate
-            Console.WriteLine(calculator);
-        }
+        //    calculator += Remove;
+        //    calculator(20, 30); // calling method using delegate
+        //    Console.WriteLine(calculator);
+        //}
     }
 }
