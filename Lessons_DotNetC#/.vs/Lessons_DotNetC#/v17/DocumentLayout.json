@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\DotNetLessons\\Lessons_DotNetC#\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4A77C590-CC44-4E15-B362-408B5AB65545}|Lessons_DotNetC#\\Lessons_DotNetC#.csproj|c:\\dotnetlessons\\lessons_dotnetc#\\lessons_dotnetc#\\what are run, map and use method in .net core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A77C590-CC44-4E15-B362-408B5AB65545}|Lessons_DotNetC#\\Lessons_DotNetC#.csproj|solutionrelative:lessons_dotnetc#\\what are run, map and use method in .net core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A77C590-CC44-4E15-B362-408B5AB65545}|Lessons_DotNetC#\\Lessons_DotNetC#.csproj|c:\\dotnetlessons\\lessons_dotnetc#\\lessons_dotnetc#\\why to use dependency injection or what problem does dependency injection solve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A77C590-CC44-4E15-B362-408B5AB65545}|Lessons_DotNetC#\\Lessons_DotNetC#.csproj|solutionrelative:lessons_dotnetc#\\why to use dependency injection or what problem does dependency injection solve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4A77C590-CC44-4E15-B362-408B5AB65545}|Lessons_DotNetC#\\Lessons_DotNetC#.csproj|c:\\dotnetlessons\\lessons_dotnetc#\\lessons_dotnetc#\\solid_dependency_inversion_principle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A77C590-CC44-4E15-B362-408B5AB65545}|Lessons_DotNetC#\\Lessons_DotNetC#.csproj|solutionrelative:lessons_dotnetc#\\solid_dependency_inversion_principle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A77C590-CC44-4E15-B362-408B5AB65545}|Lessons_DotNetC#\\Lessons_DotNetC#.csproj|c:\\dotnetlessons\\lessons_dotnetc#\\lessons_dotnetc#\\solid_single_responsibility_principle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A77C590-CC44-4E15-B362-408B5AB65545}|Lessons_DotNetC#\\Lessons_DotNetC#.csproj|solutionrelative:lessons_dotnetc#\\solid_single_responsibility_principle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A77C590-CC44-4E15-B362-408B5AB65545}|Lessons_DotNetC#\\Lessons_DotNetC#.csproj|c:\\dotnetlessons\\lessons_dotnetc#\\lessons_dotnetc#\\lessons_dotnetc#.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4A77C590-CC44-4E15-B362-408B5AB65545}|Lessons_DotNetC#\\Lessons_DotNetC#.csproj|solutionrelative:lessons_dotnetc#\\lessons_dotnetc#.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A77C590-CC44-4E15-B362-408B5AB65545}|Lessons_DotNetC#\\Lessons_DotNetC#.csproj|c:\\dotnetlessons\\lessons_dotnetc#\\lessons_dotnetc#\\solid_open_closed_principle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4A77C590-CC44-4E15-B362-408B5AB65545}|Lessons_DotNetC#\\Lessons_DotNetC#.csproj|c:\\dotnetlessons\\lessons_dotnetc#\\lessons_dotnetc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A77C590-CC44-4E15-B362-408B5AB65545}|Lessons_DotNetC#\\Lessons_DotNetC#.csproj|solutionrelative:lessons_dotnetc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A77C590-CC44-4E15-B362-408B5AB65545}|Lessons_DotNetC#\\Lessons_DotNetC#.csproj|c:\\dotnetlessons\\lessons_dotnetc#\\lessons_dotnetc#\\solid_single_responsibility_principle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A77C590-CC44-4E15-B362-408B5AB65545}|Lessons_DotNetC#\\Lessons_DotNetC#.csproj|solutionrelative:lessons_dotnetc#\\solid_single_responsibility_principle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A77C590-CC44-4E15-B362-408B5AB65545}|Lessons_DotNetC#\\Lessons_DotNetC#.csproj|c:\\dotnetlessons\\lessons_dotnetc#\\lessons_dotnetc#\\encapsulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,32 +79,56 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "What are RUN, MAP and USE method in .NET Core.cs",
+              "DocumentMoniker": "C:\\DotNetLessons\\Lessons_DotNetC#\\Lessons_DotNetC#\\What are RUN, MAP and USE method in .NET Core.cs",
+              "RelativeDocumentMoniker": "Lessons_DotNetC#\\What are RUN, MAP and USE method in .NET Core.cs",
+              "ToolTip": "C:\\DotNetLessons\\Lessons_DotNetC#\\Lessons_DotNetC#\\What are RUN, MAP and USE method in .NET Core.cs",
+              "RelativeToolTip": "Lessons_DotNetC#\\What are RUN, MAP and USE method in .NET Core.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T04:32:17.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Why to use Dependency Injection OR What problem does Dependency Injection solve.cs",
+              "DocumentMoniker": "C:\\DotNetLessons\\Lessons_DotNetC#\\Lessons_DotNetC#\\Why to use Dependency Injection OR What problem does Dependency Injection solve.cs",
+              "RelativeDocumentMoniker": "Lessons_DotNetC#\\Why to use Dependency Injection OR What problem does Dependency Injection solve.cs",
+              "ToolTip": "C:\\DotNetLessons\\Lessons_DotNetC#\\Lessons_DotNetC#\\Why to use Dependency Injection OR What problem does Dependency Injection solve.cs",
+              "RelativeToolTip": "Lessons_DotNetC#\\Why to use Dependency Injection OR What problem does Dependency Injection solve.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T11:14:37.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lessons_DotNetC#.csproj",
+              "DocumentMoniker": "C:\\DotNetLessons\\Lessons_DotNetC#\\Lessons_DotNetC#\\Lessons_DotNetC#.csproj",
+              "RelativeDocumentMoniker": "Lessons_DotNetC#\\Lessons_DotNetC#.csproj",
+              "ToolTip": "C:\\DotNetLessons\\Lessons_DotNetC#\\Lessons_DotNetC#\\Lessons_DotNetC#.csproj",
+              "RelativeToolTip": "Lessons_DotNetC#\\Lessons_DotNetC#.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-25T05:29:51.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "SOLID_Dependency_Inversion_Principle.cs",
               "DocumentMoniker": "C:\\DotNetLessons\\Lessons_DotNetC#\\Lessons_DotNetC#\\SOLID_Dependency_Inversion_Principle.cs",
               "RelativeDocumentMoniker": "Lessons_DotNetC#\\SOLID_Dependency_Inversion_Principle.cs",
               "ToolTip": "C:\\DotNetLessons\\Lessons_DotNetC#\\Lessons_DotNetC#\\SOLID_Dependency_Inversion_Principle.cs",
               "RelativeToolTip": "Lessons_DotNetC#\\SOLID_Dependency_Inversion_Principle.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAqwDgAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAkwDgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T11:21:27.344Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T11:21:27.344Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SOLID_Interface_Segrigation_Principle.cs",
-              "DocumentMoniker": "C:\\DotNetLessons\\Lessons_DotNetC#\\Lessons_DotNetC#\\SOLID_Interface_Segrigation_Principle.cs",
-              "RelativeDocumentMoniker": "Lessons_DotNetC#\\SOLID_Interface_Segrigation_Principle.cs",
-              "ToolTip": "C:\\DotNetLessons\\Lessons_DotNetC#\\Lessons_DotNetC#\\SOLID_Interface_Segrigation_Principle.cs",
-              "RelativeToolTip": "Lessons_DotNetC#\\SOLID_Interface_Segrigation_Principle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T12:49:24.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "SOLID_Liskov_Substitution_Principle.cs",
               "DocumentMoniker": "C:\\DotNetLessons\\Lessons_DotNetC#\\Lessons_DotNetC#\\SOLID_Liskov_Substitution_Principle.cs",
               "RelativeDocumentMoniker": "Lessons_DotNetC#\\SOLID_Liskov_Substitution_Principle.cs",
@@ -100,12 +136,35 @@
               "RelativeToolTip": "Lessons_DotNetC#\\SOLID_Liskov_Substitution_Principle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T03:43:32.874Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T03:43:32.874Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "SOLID_Single_Responsibility_Principle.cs",
+              "DocumentMoniker": "C:\\DotNetLessons\\Lessons_DotNetC#\\Lessons_DotNetC#\\SOLID_Single_Responsibility_Principle.cs",
+              "RelativeDocumentMoniker": "Lessons_DotNetC#\\SOLID_Single_Responsibility_Principle.cs",
+              "ToolTip": "C:\\DotNetLessons\\Lessons_DotNetC#\\Lessons_DotNetC#\\SOLID_Single_Responsibility_Principle.cs",
+              "RelativeToolTip": "Lessons_DotNetC#\\SOLID_Single_Responsibility_Principle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T05:12:59.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SOLID_Interface_Segrigation_Principle.cs",
+              "DocumentMoniker": "C:\\DotNetLessons\\Lessons_DotNetC#\\Lessons_DotNetC#\\SOLID_Interface_Segrigation_Principle.cs",
+              "RelativeDocumentMoniker": "Lessons_DotNetC#\\SOLID_Interface_Segrigation_Principle.cs",
+              "ToolTip": "C:\\DotNetLessons\\Lessons_DotNetC#\\Lessons_DotNetC#\\SOLID_Interface_Segrigation_Principle.cs",
+              "RelativeToolTip": "Lessons_DotNetC#\\SOLID_Interface_Segrigation_Principle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T12:49:24.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "SOLID_Open_Closed_Principle.cs",
               "DocumentMoniker": "C:\\DotNetLessons\\Lessons_DotNetC#\\Lessons_DotNetC#\\SOLID_Open_Closed_Principle.cs",
               "RelativeDocumentMoniker": "Lessons_DotNetC#\\SOLID_Open_Closed_Principle.cs",
@@ -113,24 +172,11 @@
               "RelativeToolTip": "Lessons_DotNetC#\\SOLID_Open_Closed_Principle.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAxwBAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T05:27:55.3Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-15T05:27:55.3Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SOLID_Single_Responsibility_Principle.cs",
-              "DocumentMoniker": "C:\\DotNetLessons\\Lessons_DotNetC#\\Lessons_DotNetC#\\SOLID_Single_Responsibility_Principle.cs",
-              "RelativeDocumentMoniker": "Lessons_DotNetC#\\SOLID_Single_Responsibility_Principle.cs",
-              "ToolTip": "C:\\DotNetLessons\\Lessons_DotNetC#\\Lessons_DotNetC#\\SOLID_Single_Responsibility_Principle.cs",
-              "RelativeToolTip": "Lessons_DotNetC#\\SOLID_Single_Responsibility_Principle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T05:12:59.063Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Polymorphism.cs",
               "DocumentMoniker": "C:\\DotNetLessons\\Lessons_DotNetC#\\Lessons_DotNetC#\\Polymorphism.cs",
               "RelativeDocumentMoniker": "Lessons_DotNetC#\\Polymorphism.cs",
@@ -142,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Encapsulation.cs",
               "DocumentMoniker": "C:\\DotNetLessons\\Lessons_DotNetC#\\Lessons_DotNetC#\\Encapsulation.cs",
               "RelativeDocumentMoniker": "Lessons_DotNetC#\\Encapsulation.cs",
@@ -154,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\DotNetLessons\\Lessons_DotNetC#\\Lessons_DotNetC#\\Program.cs",
               "RelativeDocumentMoniker": "Lessons_DotNetC#\\Program.cs",
@@ -166,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "AbstractClass.cs",
               "DocumentMoniker": "C:\\DotNetLessons\\Lessons_DotNetC#\\Lessons_DotNetC#\\AbstractClass.cs",
               "RelativeDocumentMoniker": "Lessons_DotNetC#\\AbstractClass.cs",
